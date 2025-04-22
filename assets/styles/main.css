@@ -64,3 +64,24 @@ button:hover{
     background-color: #75de81;
     color: #000;
 }
+
+
+
+footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 60px;
+    background: linear-gradient(45deg, #16460b, transparent);
+}
+a {
+    text-decoration: none;
+    color: #0f1710;
+    font-size: 1rem;
+    display: block;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 20px;
+    letter-spacing: normal;
+}
+ 
